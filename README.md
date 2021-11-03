@@ -8,4 +8,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/afonso2120/)](https://www.instagram.com/serzin_sc/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514996960834&text=Hello!)](https://api.whatsapp.com/send?phone=5514996960834&text=Hello!)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/samylle-code)](https://github.com/samylle-code)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samyllecaetano@hotmail.com)](samyllecaetano@hotmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samyllesouzaborges2@gmail.com)](samyllesouzaborges2@gmail.com) 
