@@ -24,8 +24,14 @@
  
 <br>
 <p align= "center"> 
-<.Sou estudante de desenvolvimento web >
-< Estou constatemente aprendendo novas habilidades para incorporar na minha vida de trabalho >
+💻Learning Web development <br>
+🎓I'm improving my skills um programming. <br>
+🌐I would like to collaborate developing  web projects for institutions and non-profit NGOs. <br>
+FactsAboutMe: <br>
+🌃*My dreams is study and work abroad* <br>
+🎻*I've been playing violin for 2 years* <br>
+🏊*I'm a swimmer* <br>
+📖*I love read books about fantasy and romance* <br>
       </p>
 <h4 align= "center"> ━─━─━━─━「₪」━━─━─━─━ </h4>
 
