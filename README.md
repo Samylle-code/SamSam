@@ -21,7 +21,9 @@
   <img align="left" alt="Sam-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="Sam-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
-
+<br>
+  <br>
+  <br>
 <div>
   <a href="https://www.instagram.com/serzin_sc/" target="_blank" ><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://api.whatsapp.com/send?phone=5577988586099&text=Hello!I'm+from+Github)](https://api.whatsapp.com/send?phone=5577988586099&text=Hello!" target="_blank"><img align="right" src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white" target="_blank"></a> 
@@ -42,6 +44,11 @@
 </p>
  <div align= "center">
  <a href="https://visualstudio.microsoft.com/pt-br/" target="_blank"><img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" target="_blank"></a> 
+   
+
+<a href="" target="_blank" alt="Canva" title="Canva"> <img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&color=purple">
+
+
  </div>
 <br>
 <br> 
