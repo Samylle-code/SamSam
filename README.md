@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samylle-code&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
-<h4 align= "center"> ━─━─━━─━「₪」━━─━─━─━ </h4>
+
 <br> 
  <br>
  <div style="display: flex"><br>
