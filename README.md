@@ -12,8 +12,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samylle-code&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samylle-code&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
-
-
+ 
+<h4 align= "center"> ━─━─━━─━「₪」━━─━─━─━ </h4>
+<br> 
+ <br>
  <div style="display: flex"><br>
  <div> 
   <img align="left" alt="Sam-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,9 +23,8 @@
   <img align="left" alt="Sam-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="Sam-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
-<br>
-  <br>
-  <br>
+
+
 <div>
   <a href="https://www.instagram.com/serzin_sc/" target="_blank" ><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://api.whatsapp.com/send?phone=5577988586099&text=Hello!I'm+from+Github)](https://api.whatsapp.com/send?phone=5577988586099&text=Hello!" target="_blank"><img align="right" src="https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white" target="_blank"></a> 
